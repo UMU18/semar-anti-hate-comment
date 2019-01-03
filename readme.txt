@@ -14,7 +14,7 @@ Say Goodbye to hate comment on your WordPress blog or website. *Semar  Anti-Hate
 * change comment category manually.
 
 ### Contribute ###
-* Active development of this plugin is handled [on GitHub](https://github.com/UMU18/anti-hate-comment-wp-plugin).
+* Active development of this plugin is handled [on GitHub](https://github.com/UMU18/semar-anti-hate-comment).
 
 
 ## Installation ##
